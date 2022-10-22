@@ -1,4 +1,5 @@
-﻿double [] num = new double [4];
+﻿//Написать программу масштабирования фигуры
+double [] num = new double [4];
 Console.WriteLine("Введите координаты фигуры (x1) (x2) (x3) (x4)");
 num[0] = Convert.ToDouble(Console.ReadLine());
 num[1] = Convert.ToDouble(Console.ReadLine());
